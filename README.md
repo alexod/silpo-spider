@@ -13,7 +13,7 @@ A Scrapy spider for scraping product data from Silpo online store.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/alexod/silpo-spider
 cd silpo
 ```
 
