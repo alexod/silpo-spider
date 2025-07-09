@@ -44,7 +44,7 @@ scrapy runspider silpo/spiders/spider.py -O output/185.json -a postal_code=03194
 
 ## Configuration
 
-The spider uses configuration files in the `silpo/extrs/` directory:
+The spider uses configuration files in the `silpo/extra/` directory:
 
 - `loc.json`: Store locations and their postal codes
 - `cat.json`: Product categories to scrape
