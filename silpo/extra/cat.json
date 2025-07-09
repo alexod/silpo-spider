@@ -1,0 +1,135 @@
+[
+    
+    {
+        "categoryId": 374,
+        "categoryName": "Фрукти, овочі, соління",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/frukty-ovochi-solinnia-374"
+    },
+    {
+        "categoryId": 4411,
+        "categoryName": "М'ясо",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/m-iaso-4411"
+    },
+    {
+        "categoryId": 4430,
+        "categoryName": "Риба",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/ryba-4430"
+    },
+    {
+        "categoryId": 316,
+        "categoryName": "М'ясо-ковбасні вироби",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/m-iaso-kovbasni-vyroby-316"
+    },
+    {
+        "categoryId": 1468,
+        "categoryName": "Сири",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/syry-1468"
+    },
+    {
+        "categoryId": 486,
+        "categoryName": "Хліб та хлібобулочні вироби",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/khlib-ta-khlibobulochni-vyroby-486"
+    },
+    {
+        "categoryId": 433,
+        "categoryName": "Кулінарія",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/kulinariia-433"
+    },
+    {
+        "categoryId": 234,
+        "categoryName": "Молочні продукти та яйця",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/molochni-produkty-ta-iaitsia-234"
+    },
+    {
+        "categoryId": 264,
+        "categoryName": "Заморожена продукція",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/zamorozhena-produktsiia-264"
+    },
+    {
+        "categoryId": 65,
+        "categoryName": "Бакалія",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/bakaliia-65"
+    },
+    {
+        "categoryId": 130,
+        "categoryName": "Консерви, соуси, приправи",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/konservy-sousy-prypravy-130"
+    },
+    {
+        "categoryId": 498,
+        "categoryName": "Солодощі",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/solodoshchi-498"
+    },
+    {
+        "categoryId": 308,
+        "categoryName": "Снеки",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/sneky-308"
+    },
+    {
+        "categoryId": 359,
+        "categoryName": "Кава, чай",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/kava-chai-359"
+    },
+    {
+        "categoryId": 52,
+        "categoryName": "Напої",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/napoi-52"
+    },
+    {
+        "categoryId": 4384,
+        "categoryName": "18+",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/18-4384"
+    },
+    {
+        "categoryId": 22,
+        "categoryName": "Алкоголь",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/alkogol-22"
+    },
+    {
+        "categoryId": 476,
+        "categoryName": "Квіти, товари для саду та городу",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/kvity-tovary-dlia-sadu-ta-gorodu-476"
+    },
+    {
+        "categoryId": 535,
+        "categoryName": "Гігієна",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/gigiiena-535"
+    },
+    {
+        "categoryId": 567,
+        "categoryName": "Для дому",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/dlia-domu-567"
+    },
+    {
+        "categoryId": 449,
+        "categoryName": "Дитячі товари",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/dytiachi-tovary-449"
+    },
+    {
+        "categoryId": 653,
+        "categoryName": "Для тварин",
+        "hasChildren": true,
+        "catURL": "https://shop.silpo.ua/category/dlia-tvaryn-653"
+    }
+]
