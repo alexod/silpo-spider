@@ -14,7 +14,7 @@ A Scrapy spider for scraping product data from Silpo online store.
 1. Clone the repository:
 ```bash
 git clone https://github.com/alexod/silpo-spider
-cd silpo
+cd silpo-spider
 ```
 
 2. Install dependencies:
